@@ -3,3 +3,10 @@ body{
     text-align: center;
     font-family: Arial;
 }
+
+.footer{
+    background-color: #333;
+    color:blanchedalmond;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
